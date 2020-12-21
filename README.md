@@ -1,2 +1,2 @@
 # tsumu-toto.github.io
-Atsumu-totoのメモ時間
+tsumu-totoのメモ時間

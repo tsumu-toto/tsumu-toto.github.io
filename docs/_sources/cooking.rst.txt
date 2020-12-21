@@ -13,7 +13,9 @@ Cooking Receipt
 
 お楽しみ
 --------
-手打ち蕎麦
+.. include:: cooking_receipt/soba.rst
+.. include:: cooking_receipt/pizza.rst
+
 
 珈琲
 ----

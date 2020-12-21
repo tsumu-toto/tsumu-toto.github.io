@@ -7,7 +7,7 @@ tsumu-totoのメモ時間へようこそ!!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    profile

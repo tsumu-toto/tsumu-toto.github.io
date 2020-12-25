@@ -13,8 +13,11 @@ Cooking Receipt
 
 お楽しみ
 --------
-.. include:: cooking_receipt/soba.rst
-.. include:: cooking_receipt/pizza.rst
+.. toctree::
+   :maxdepth: 1
+
+   cooking_receipt/soba
+   cooking_receipt/pizza
 
 
 珈琲

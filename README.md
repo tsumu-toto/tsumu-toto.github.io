@@ -4,15 +4,15 @@ This site is ready to be published at https://tsumu-toto.github.io/
 
 ## ビルド手順
 ```Shell
-$ make -C docs_src html
+$ make
 ```
+docs_src ディレクトリ内で、make html を実行し、
+docs_src/_build/html 以下のファイルを、docs 以下にコピーします。
 
-## Git Pages に反映
-といっても、make htmlの成果物を docs ディレクトリにコピーして、リモートレポジトリに送信するだけ
-```Shell
-$ cp -r docs_src/_build/html/. docs/
-$ git add .
-$ git commit -m "......."
-$ git push
-```
+## 公開手順
+リモートのmainブランチにpushするだけです。
+
+リモートmainブランチの docs ディレクトリが、
+https://tsumu-toto.github.io/
+に公開されます。
 

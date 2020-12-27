@@ -18,6 +18,7 @@ Cooking Receipt
    cooking_receipt/soba
    cooking_receipt/pizza
    cooking_receipt/spice_curry
+   cooking_receipt/chapati
 
 珈琲
 ----

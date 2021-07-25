@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "tsumu-totoのメモ時間"
+project = "tsumu-totoのノート"
 copyright = '2020, tsumu-toto'
 author = 'tsumu-toto'
 

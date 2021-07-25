@@ -1,10 +1,11 @@
-.. tsumu-toto's memo documentation master file, created by
+.. tsumu-toto's note documentation master file, created by
    sphinx-quickstart on Mon Dec 21 13:07:13 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-tsumu-totoのメモ時間へようこそ!!
-===================================
+
+tsumu-totoのノートへようこそ!!
+================================
 
 .. toctree::
    :maxdepth: 3
@@ -13,6 +14,7 @@ tsumu-totoのメモ時間へようこそ!!
    profile
    technical
    cooking
+
 
 Indices and tables
 ==================
